@@ -29,16 +29,25 @@ just_the_docs:
   footer_content: "&copy; 2026 AscendNPUIR Community. Distributed under Apache License 2.0."
 
 # Navigation
-header_pages:
-  - index.md
-  - introduction.md
-  - architecture.md
-  - dialects.md
-  - passes.md
-  - api.md
-  - tutorials.md
-  - installation.md
-  - contributing.md
+nav:
+  - "Home": index.md
+  - "Getting Started":
+    - "Installation Guide": installation.md
+    - "Quick Start Tutorial": tutorials/quick-start.md
+    - "Architecture Overview": architecture.md
+  - "Core Concepts":
+    - "Introduction": introduction.md
+    - "Ascend NPU Dialects": dialects.md
+    - "Compiler Passes": passes.md
+  - "Advanced Topics":
+    - "API Reference": api.md
+    - "Cost Model":
+      - "VFFusion Fuse方案设计方法": cost-model/cost-model.md
+      - "Compute Score": cost-model/compute-score.md
+      - "IO Score": cost-model/io-score.md
+      - "Parallelism Compute": cost-model/parallelisim-compute.md
+  - "Tutorials": tutorials.md
+  - "Contributing": contributing.md
 
 # Build settings
 markdown: kramdown
