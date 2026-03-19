@@ -221,3 +221,5 @@ utilization = Σ(execInterval × opCount) / totalCycles
 * 基于IO的Score计算 [IO Score](./io-score.md)
 
 * 基于并行性的Score计算 [Parallelism Score](./parallelisim-compute.md)
+
+* 基于执行单元利用率的Score计算 [Exec Unit Utilization Compute](./exec-util-compute.md)
