@@ -7,9 +7,26 @@ baseurl: "/AscendNPUIR.github.io"
 url: "https://njuoyx.github.io"
 
 # Theme settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Just the Docs specific configuration
+just_the_docs:
+  # Enable dark mode
+  color_scheme: auto
+  # Navigation settings
+  nav_external_links:
+    - title: GitHub
+      url: https://github.com/NJUOYX/AscendNPUIR.github.io
+      hide_icon: false
+  # Search settings
+  search_enabled: true
+  search_limit: 10
+  # Footer settings
+  footer_content: "&copy; 2026 AscendNPUIR Community. Distributed under Apache License 2.0."
 
 # Navigation
 header_pages:
