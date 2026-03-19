@@ -18,6 +18,7 @@ Welcome to the AscendNPUIR documentation! This wiki serves as a comprehensive re
 | [Compiler Passes](./passes.md) | Description of optimization passes specific to Ascend hardware |
 | [Tutorials](./tutorials.md) | Step-by-step guides for common tasks and workflows |
 | [API Reference](./api.md) | Complete reference for AscendNPUIR APIs |
+| [Cost Model](./cost-model/cost-model.md) | VF Fusion Strategy based on Cost Model |
 
 ## 🚀 Getting Started
 
