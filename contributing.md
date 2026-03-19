@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contribution Guidelines
+---
+
 # Contribution Guidelines
 
 Thank you for your interest in contributing to AscendNPUIR! This document provides guidelines and procedures for contributing to this project.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Architecture
+---
+
 # AscendNPUIR Architecture
 
 This document provides a detailed overview of the AscendNPUIR architecture, including its components, data flow, and key design principles.

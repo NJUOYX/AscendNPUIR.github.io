@@ -1,3 +1,8 @@
+---
+layout: default
+title: API Reference
+---
+
 # API Reference
 
 This section provides detailed documentation for the AscendNPUIR API, including command-line tools, C++ APIs, and Python bindings.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tutorials
+---
+
 # AscendNPUIR Tutorials
 
 This section contains step-by-step tutorials to help you learn and master AscendNPUIR.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Compiler Passes
+---
+
 # Compiler Passes
 
 AscendNPUIR provides a suite of hardware-aware optimization passes designed to maximize performance on Ascend NPU hardware. These passes work on the custom Ascend NPU dialects to optimize the intermediate representation for NPU execution.

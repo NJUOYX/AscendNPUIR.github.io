@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # AscendNPUIR Documentation Hub
 
 Welcome to the AscendNPUIR documentation! This wiki serves as a comprehensive resource for understanding and working with the Ascend NPU Intermediate Representation.

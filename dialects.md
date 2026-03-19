@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dialects
+---
+
 # Ascend NPU Dialects
 
 AscendNPUIR extends MLIR with custom dialects that model Ascend NPU-specific operations and hardware features. These dialects enable hardware-aware optimization and code generation.

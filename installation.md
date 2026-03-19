@@ -1,3 +1,8 @@
+---
+layout: default
+title: Installation Guide
+---
+
 # Installation Guide
 
 This guide will walk you through the process of installing AscendNPUIR on your system.

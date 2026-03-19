@@ -1,3 +1,8 @@
+---
+layout: default
+title: Quick Start
+---
+
 # Quick Start with AscendNPUIR
 
 This tutorial will guide you through the basic workflow of using AscendNPUIR to compile and run a simple model on Ascend NPU hardware.

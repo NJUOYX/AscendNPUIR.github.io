@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction
+---
+
 # Introduction to AscendNPUIR
 
 AscendNPUIR is an Intermediate Representation (IR) framework built on top of MLIR (Multi-Level Intermediate Representation) specifically designed for Huawei's Ascend Neural Processing Units (NPUs).
