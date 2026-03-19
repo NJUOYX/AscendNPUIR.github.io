@@ -3,8 +3,8 @@
 # Site settings
 title: AscendNPUIR Documentation
 description: Comprehensive documentation for Ascend NPU Intermediate Representation
-baseurl: ""
-url: "https://ascendnpuir.github.io"
+baseurl: "/AscendNPUIR.github.io"
+url: "https://njuoyx.github.io"
 
 # Theme settings
 remote_theme: pages-themes/slate@v0.2.0
