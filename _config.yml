@@ -1,0 +1,40 @@
+# Jekyll configuration for AscendNPUIR Documentation
+
+# Site settings
+title: AscendNPUIR Documentation
+description: Comprehensive documentation for Ascend NPU Intermediate Representation
+baseurl: ""
+url: "https://ascendnpuir.github.io"
+
+# Theme settings
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Navigation
+header_pages:
+  - index.md
+  - introduction.md
+  - architecture.md
+  - dialects.md
+  - passes.md
+  - api.md
+  - tutorials.md
+  - installation.md
+  - contributing.md
+
+# Build settings
+markdown: kramdown
+encoding: utf-8
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
