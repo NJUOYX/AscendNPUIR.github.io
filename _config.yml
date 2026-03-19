@@ -46,6 +46,7 @@ nav:
       - "Compute Score": cost-model/compute-score.md
       - "IO Score": cost-model/io-score.md
       - "Parallelism Compute": cost-model/parallelisim-compute.md
+      - "Exec Unit Utilization Compute": cost-model/exec-util-compute.md
   - "Tutorials": tutorials.md
   - "Contributing": contributing.md
 
