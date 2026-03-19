@@ -1,8 +1,7 @@
-***
-
+---
 layout: default
-title: API Reference
---------------------
+title: Compute Score
+---
 
 # VFFusion Compute Score 计算逻辑详解
 

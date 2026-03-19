@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API Reference
+title: Cost Model
 ---
 
 # VFFusion Fuse方案设计方法

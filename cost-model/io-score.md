@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API Reference
+title: IO Score
 ---
 
 # VFFusion IO Score 计算逻辑详解

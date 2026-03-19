@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API Reference
+title: Parallelism Compute
 ---
 
 # VFFusion Parallelism Cost Model 详解
